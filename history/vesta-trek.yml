@@ -1,7 +1,7 @@
-url: https://trek.nasa.gov/vesta&cloudfront=no
-status: down
-code: 404
-responseTime: 52
-lastUpdated: 2025-11-06T17:21:01.264Z
+url: https://trek.nasa.gov/vesta?cloudfront=no
+status: up
+code: 200
+responseTime: 115
+lastUpdated: 2025-11-06T18:36:25.994Z
 startTime: 2025-11-06T16:53:32.445Z
 generator: Upptime <https://github.com/upptime/upptime>
