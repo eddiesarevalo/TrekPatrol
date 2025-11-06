@@ -1,7 +1,7 @@
-url: https://trek.nasa.gov/titan&cloudfront=no
-status: down
-code: 404
-responseTime: 52
-lastUpdated: 2025-11-06T17:21:08.260Z
+url: https://trek.nasa.gov/titan?cloudfront=no
+status: up
+code: 200
+responseTime: 114
+lastUpdated: 2025-11-06T18:36:33.329Z
 startTime: 2025-11-06T16:53:40.769Z
 generator: Upptime <https://github.com/upptime/upptime>
