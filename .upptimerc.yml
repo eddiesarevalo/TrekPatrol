@@ -12,7 +12,7 @@ sites:
     maxResponseTime: 5000
 
   - name: Mars Trek
-    url: https://trek.nasa.gov/mars&cloudfront=no
+    url: https://trek.nasa.gov/mars?cloudfront=no
     assignees:
       - eddiesarevalo
     expectedStatusCodes:
@@ -20,13 +20,13 @@ sites:
     maxResponseTime: 5000
 
   - name: Moon Trek
-    url: https://trek.nasa.gov/moon&cloudfront=no
+    url: https://trek.nasa.gov/moon?cloudfront=no
     assignees:
       - eddiesarevalo
     maxResponseTime: 5000
 
   - name: Vesta Trek
-    url: https://trek.nasa.gov/vesta&cloudfront=no
+    url: https://trek.nasa.gov/vesta?cloudfront=no
     assignees:
       - eddiesarevalo
     expectedStatusCodes:
@@ -34,19 +34,19 @@ sites:
     maxResponseTime: 5000
 
   - name: Ceres Trek
-    url: https://trek.nasa.gov/ceres&cloudfront=no
+    url: https://trek.nasa.gov/ceres?cloudfront=no
     assignees:
       - eddiesarevalo
     maxResponseTime: 5000
 
   - name: Callisto Trek
-    url: https://trek.nasa.gov/callisto&cloudfront=no
+    url: https://trek.nasa.gov/callisto?cloudfront=no
     assignees:
       - eddiesarevalo
     maxResponseTime: 5000
 
   - name: Titan Trek
-    url: https://trek.nasa.gov/titan&cloudfront=no
+    url: https://trek.nasa.gov/titan?cloudfront=no
     assignees:
       - eddiesarevalo
     expectedStatusCodes:
@@ -54,7 +54,7 @@ sites:
     maxResponseTime: 5000
 
   - name: Phobos Trek
-    url: https://trek.nasa.gov/phobos&cloudfront=no
+    url: https://trek.nasa.gov/phobos?cloudfront=no
     assignees:
       - eddiesarevalo
     expectedStatusCodes:
