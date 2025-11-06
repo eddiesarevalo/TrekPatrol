@@ -3,7 +3,7 @@
 owner: eddiesarevalo
 repo: TrekPatrol
 sites:
-  - name: Trek Home site trek.nasa.gov
+  - name: Trek home site trek.nasa.gov
     url: https://trek.nasa.gov/?cloudfront=no
     assignees:
       - eddiesarevalo
