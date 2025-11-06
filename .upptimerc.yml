@@ -53,6 +53,14 @@ sites:
       - 200
     maxResponseTime: 5000
 
+  - name: Phobos Trek
+    url: https://trek.nasa.gov/phobos&cloudfront=no
+    assignees:
+      - eddiesarevalo
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+
 status-website:
   baseUrl: /TrekPatrol
   name: Trek Patrol
